@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {font-family:Verdana, Geneva, Tahoma, sans-serif; }
+
+
+.container {max-width: 1200px;
+min-width: 900px;
+padding :10px 0; text-align: center;
+
+}
+
+h1 {font-size: 1.6em; margin-bottom: 1em; text-align: center;}
+.container > button { width:500px;
+padding : 10px 0;}
+
+
+
+.container ul { display: flex; flex-wrap: wrap;}
+.container ul li { width: 25%; padding:10px;
+text-align: center;
+margin: 20px 0;}
+.container img {width:100%}
+.name {padding : 10px 0; font-weight: bold;}
+.price {color: #999; font-size:14px;}
