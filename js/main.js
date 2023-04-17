@@ -1,4 +1,4 @@
-import products from "../data.json" assert{type: 'json'}
+import products from "https://mildmocha.github.io/data/data.json" assert{type: 'json'}
 //assert {type:'json'} - 외부파일이 json 이라고 확실하게 명시
 console.log(products)
 const button = document.querySelector('button')
