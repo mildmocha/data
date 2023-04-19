@@ -5,56 +5,56 @@
             "name": "FLADDRIG 플라드리그",
             "img": "https://www.ikea.com/kr/ko/images/products/fladdrig-lunch-bag-striped-multicolour__1158020_pe887967_s5.jpg?f=xxs",
             "price": "1000",
-            "category": ""
+            "category": "kitchen"
         },
         {
             "id": 2,
             "name": "HÖLASS 횔라스",
             "img": "https://www.ikea.com/kr/ko/images/products/hoelass-bin-with-lid-black__1099970_pe866029_s5.jpg?f=xxs",
             "price": "3000",
-            "category": ""
+            "category": "kitchen"
         },
         {
             "id": 3,
             "name": "LILL 릴 망사커튼 한쌍",
             "img": "https://www.ikea.com/kr/ko/images/products/lill-net-curtains-1-pair-white__0887768_pe569661_s5.jpg?f=xxs",
             "price": "5000",
-            "category": ""
+            "category": "kitchen"
         },
         {
             "id": 4,
             "name": "NOJIG 노이그",
             "img": "https://www.ikea.com/kr/ko/images/products/nojig-organiser-plastic-beige__0954158_pe804500_s5.jpg?f=xxs",
             "price": "800",
-            "category": ""
+            "category": "deco"
         },
         {
             "id": 5,
             "name": "NYSKÖLJD 뉘셸리드",
             "img": "https://www.ikea.com/kr/ko/images/products/nyskoeljd-dish-drying-mat-blue__0897766_pe660823_s5.jpg?f=xxs",
             "price": "3000",
-            "category": ""
+            "category": "deco"
         },
         {
             "id": 6,
             "name": "PÅLYCKE 폴뤼케 걸이식바구니",
             "img": "https://www.ikea.com/kr/ko/images/products/palycke-clip-on-basket__1094044_pe863299_s5.jpg?f=xs",
             "price": "6500",
-            "category": ""
+            "category": "deco"
         },
         {
             "id": 7,
             "name": "PEPPRIG 페프리그",
             "img": "https://www.ikea.com/kr/ko/images/products/pepprig-floor-squeegee__1154919_pe886363_s5.jpg?f=xxs",
             "price": "5900",
-            "category": ""
+            "category": "clean"
         },
         {
             "id": 8,
             "name": "JÄLL 옐 빨래주머니+스탠드",
             "img": "https://www.ikea.com/kr/ko/images/products/jaell-laundry-bag-with-stand-white__0711258_pe728096_s5.jpg?f=xs",
             "price": "5000",
-            "category": ""
+            "category": "clean"
         }
     ]
 
